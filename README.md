@@ -4,7 +4,8 @@ Demonstration of Groovy language command line curl.
 
 ## Installation
 
-Homepage [groovy](https://groovy-lang.org/install.html) provides information for most installations [chocolatey]('https://chocolatey.org/packages/groovy') also provides a package.
+Homepage [groovy](https://groovy-lang.org/install.html) provides information for most installations.
+[chocolatey]('https://chocolatey.org/packages/groovy') also provides a package.
 
 ```bash
 groovy curl.groovy

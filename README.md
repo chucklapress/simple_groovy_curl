@@ -25,7 +25,7 @@ println proc.text // call to print to terminal results of curl
 
 ## Contributing
 This is simply here for educational or reference purposes.
-Thanks for check it out!
+Thanks for checking it out!
 
 
 ## License
